@@ -1,5 +1,5 @@
-## Hi there 👋
-### This is my new Github!
+# Hi there 👋
+## This is my new Github! Some private projects are on Gitlab.
 
  <div>
   <a href="https://github.com/vcamferreira">
