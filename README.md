@@ -19,20 +19,19 @@
 
 ### 🇧🇷 Sobre mim
 
-Atuo nas duas pontas da segurança: **ataque (pentest, Red Team) e defesa (Blue Team, SOC)**.
-Sei como um sistema quebra porque sei como ele é construído — sou **desenvolvedor full stack**
-(front e back), o que me dá visão completa do alvo, da aplicação até a infraestrutura.
+Transito entre ataque e defesa: pentest, Red Team, Blue Team e SOC. Sou **desenvolvedor full stack**
+(front e back), então enxergo o alvo por inteiro, da aplicação até a infraestrutura. Sei onde ele
+quebra porque sei como foi construído.
 
-Meu trabalho resumido em uma frase: **ataco como quem constrói, defendo como quem ataca.**
+**Ataco como quem constrói. Defendo como quem ataca.**
 
 ### 🇺🇸 About me
 
-I work on both sides of security: **offense (pentest, Red Team) and defense (Blue Team, SOC)**.
-I know how systems break because I know how they're built — I'm a **full stack developer**
-(frontend and backend), giving me full visibility into a target, from the application down to
-the infrastructure.
+Security, both sides: pentest, Red Team, Blue Team, SOC. I'm also a **full stack developer**
+(front and back), which means I see the whole target, from the application down to the
+infrastructure. I know where it breaks because I know how it was built.
 
-My job in one line: **attack like a builder, defend like an attacker.**
+**I attack like a builder. I defend like an attacker.**
 
 ---
 
