@@ -5,7 +5,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FF%20Tech-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Brasil-009739?style=for-the-badge" />
 </p>
 
@@ -48,6 +47,23 @@ infrastructure. I know where it breaks because I know how it was built.
 
 ---
 
+### 🎯 Foco agora / Currently focused on
+
+- 🔴 Escalonamento de privilégio e movimentação lateral em engajamentos de Red Team
+- 🔵 Detecção e resposta a incidentes do lado do Blue Team / SOC
+- 💻 Aplicações full stack pensadas com segurança desde a primeira linha de código
+- 🔴 Privilege escalation and lateral movement on Red Team engagements
+- 🔵 Detection and incident response on the Blue Team / SOC side
+- 💻 Full stack applications built with security in mind from line one
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vcamferreira&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -57,6 +73,18 @@ infrastructure. I know where it breaks because I know how it was built.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vcamferreira&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribuições / Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vcamferreira/vcamferreira/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vcamferreira/vcamferreira/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation eating my contribution graph" src="https://raw.githubusercontent.com/vcamferreira/vcamferreira/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
