@@ -1,7 +1,7 @@
 <h1 align="center">Vitor Ferreira</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Pentester+%7C+Red+Team+%7C+Blue+Team+%7C+SOC;Full+Stack+Developer;Ataco+como+quem+constr%C3%B3i%2C+defendo+como+quem+ataca." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Pentester+%7C+Red+Team+%7C+Blue+Team+%7C+SOC;Full+Stack+Developer;Construo%2C+quebro%2C+defendo." alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@ Transito entre ataque e defesa: pentest, Red Team, Blue Team e SOC. Sou **desenv
 (front e back), então enxergo o alvo por inteiro, da aplicação até a infraestrutura. Sei onde ele
 quebra porque sei como foi construído.
 
-**Ataco como quem constrói. Defendo como quem ataca.**
+**Construo, quebro, defendo.**
 
 ### 🇺🇸 About me
 
@@ -31,7 +31,7 @@ Security, both sides: pentest, Red Team, Blue Team, SOC. I'm also a **full stack
 (front and back), which means I see the whole target, from the application down to the
 infrastructure. I know where it breaks because I know how it was built.
 
-**I attack like a builder. I defend like an attacker.**
+**I build. I break. I defend.**
 
 ---
 
